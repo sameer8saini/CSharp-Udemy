@@ -14,19 +14,48 @@
 
 #region Integral Types
 
-int minPopulation = int.MinValue;
-int maxPopulation = int.MaxValue;
+//int minPopulation = int.MinValue;
+//int maxPopulation = int.MaxValue;
 
-Console.WriteLine($"Min value is: {minPopulation}");
-Console.WriteLine($"Max value is: {maxPopulation}");
+//Console.WriteLine($"Min value is: {minPopulation}");
+//Console.WriteLine($"Max value is: {maxPopulation}");
 
 #endregion
 
 #region Floating Types
-float float1 = 1234.123456F;
-float float2 = 1234.123456f;
-double double1 = 1234.1234567D;
-double double2 = 1234.1234567d;
-decimal decimal1 = 123456.123456978M;
-decimal decimal2 = 123456.123456978m;
+//float float1 = 1234.123456F;
+//float float2 = 1234.123456f;
+//double double1 = 1234.1234567D;
+//double double2 = 1234.1234567d;
+//decimal decimal1 = 123456.123456978M;
+//decimal decimal2 = 123456.123456978m;
 #endregion
+
+#region String Types
+// Sameer 
+string name = "Sameer";
+
+// Using escape character 
+// Output "Sameer"
+string nameWithQuotes = "\"Sameer\"";
+
+
+// Print a path
+// C:\qfolder\qfile.txt
+
+string path = "C:\\qfolder\\qfile.txt";
+
+// Verbatim string literals
+string path2 = @"C:\qfolder\qfile.txt";
+
+string multiLineMessage = """
+This is line 1
+    This is line 2
+        This is line 3
+""";
+
+Console.WriteLine(multiLineMessage);
+#endregion
+
+
+
