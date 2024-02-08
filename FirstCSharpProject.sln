@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatatypeConversion", "Datat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{A76F07F1-FAE8-4FB9-87A7-50A529AF39F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionalStatements", "ConditionalStatements\ConditionalStatements.csproj", "{A9006CD4-84D7-45C4-A014-C15CD0E90EE3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{A76F07F1-FAE8-4FB9-87A7-50A529AF39F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A76F07F1-FAE8-4FB9-87A7-50A529AF39F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A76F07F1-FAE8-4FB9-87A7-50A529AF39F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9006CD4-84D7-45C4-A014-C15CD0E90EE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9006CD4-84D7-45C4-A014-C15CD0E90EE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9006CD4-84D7-45C4-A014-C15CD0E90EE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9006CD4-84D7-45C4-A014-C15CD0E90EE3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
