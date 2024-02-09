@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionalStatements", "Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IterationStatements_WhileLoop", "IterationStatements_WhileLoop\IterationStatements_WhileLoop.csproj", "{4A274B3F-0D43-4353-AF6B-3E07761F6306}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IterationStatements_DoWhileLoop", "IterationStatements_DoWhileLoop\IterationStatements_DoWhileLoop.csproj", "{A77BC330-BE34-4645-A7AF-8E98E60DF884}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{4A274B3F-0D43-4353-AF6B-3E07761F6306}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A274B3F-0D43-4353-AF6B-3E07761F6306}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A274B3F-0D43-4353-AF6B-3E07761F6306}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A77BC330-BE34-4645-A7AF-8E98E60DF884}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A77BC330-BE34-4645-A7AF-8E98E60DF884}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A77BC330-BE34-4645-A7AF-8E98E60DF884}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A77BC330-BE34-4645-A7AF-8E98E60DF884}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
