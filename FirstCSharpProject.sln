@@ -3,27 +3,29 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34316.72
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstCSharpProject", "FirstCSharpProject\FirstCSharpProject.csproj", "{22BB4D02-62D7-4596-A29C-6C244734E339}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstCSharpProject", "FirstCSharpProject\FirstCSharpProject.csproj", "{22BB4D02-62D7-4596-A29C-6C244734E339}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeywordsAndIdentifiers", "KeywordsAndIdentifiers\KeywordsAndIdentifiers.csproj", "{C77CE2C3-D3B5-4C9F-A73B-9A170BCA56DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KeywordsAndIdentifiers", "KeywordsAndIdentifiers\KeywordsAndIdentifiers.csproj", "{C77CE2C3-D3B5-4C9F-A73B-9A170BCA56DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables", "Variables\Variables.csproj", "{00FC457E-BBCF-44ED-BF2A-A142283266AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variables", "Variables\Variables.csproj", "{00FC457E-BBCF-44ED-BF2A-A142283266AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Types", "Types\Types.csproj", "{38226326-5F75-4B45-AE9B-68684E9D8571}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Types", "Types\Types.csproj", "{38226326-5F75-4B45-AE9B-68684E9D8571}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "Operators\Operators.csproj", "{D59E8AD5-0846-4A78-BB12-D8C579261841}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operators", "Operators\Operators.csproj", "{D59E8AD5-0846-4A78-BB12-D8C579261841}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullableTypes", "NullableTypes\NullableTypes.csproj", "{65DE31AD-D11B-4D74-9D8B-9D809392B5EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NullableTypes", "NullableTypes\NullableTypes.csproj", "{65DE31AD-D11B-4D74-9D8B-9D809392B5EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatatypeConversion", "DatatypeConversion\DatatypeConversion.csproj", "{CC36AE3B-B2B4-443E-A476-A5E1485F09A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DatatypeConversion", "DatatypeConversion\DatatypeConversion.csproj", "{CC36AE3B-B2B4-443E-A476-A5E1485F09A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{A76F07F1-FAE8-4FB9-87A7-50A529AF39F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays", "Arrays\Arrays.csproj", "{A76F07F1-FAE8-4FB9-87A7-50A529AF39F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionalStatements", "ConditionalStatements\ConditionalStatements.csproj", "{A9006CD4-84D7-45C4-A014-C15CD0E90EE3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConditionalStatements", "ConditionalStatements\ConditionalStatements.csproj", "{A9006CD4-84D7-45C4-A014-C15CD0E90EE3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IterationStatements_WhileLoop", "IterationStatements_WhileLoop\IterationStatements_WhileLoop.csproj", "{4A274B3F-0D43-4353-AF6B-3E07761F6306}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IterationStatements_WhileLoop", "IterationStatements_WhileLoop\IterationStatements_WhileLoop.csproj", "{4A274B3F-0D43-4353-AF6B-3E07761F6306}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IterationStatements_DoWhileLoop", "IterationStatements_DoWhileLoop\IterationStatements_DoWhileLoop.csproj", "{A77BC330-BE34-4645-A7AF-8E98E60DF884}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IterationStatements_DoWhileLoop", "IterationStatements_DoWhileLoop\IterationStatements_DoWhileLoop.csproj", "{A77BC330-BE34-4645-A7AF-8E98E60DF884}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IterationStatements_ForLoop", "IterationStatements_ForLoop\IterationStatements_ForLoop.csproj", "{48AF89DC-1C0B-40F8-888A-FC8716EF442F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{A77BC330-BE34-4645-A7AF-8E98E60DF884}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A77BC330-BE34-4645-A7AF-8E98E60DF884}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A77BC330-BE34-4645-A7AF-8E98E60DF884}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48AF89DC-1C0B-40F8-888A-FC8716EF442F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48AF89DC-1C0B-40F8-888A-FC8716EF442F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48AF89DC-1C0B-40F8-888A-FC8716EF442F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48AF89DC-1C0B-40F8-888A-FC8716EF442F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
