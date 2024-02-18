@@ -27,6 +27,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IterationStatements_DoWhile
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IterationStatements_ForLoop", "IterationStatements_ForLoop\IterationStatements_ForLoop.csproj", "{48AF89DC-1C0B-40F8-888A-FC8716EF442F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IterationStatements_ForeachLoop", "IterationStatements_ForeachLoop\IterationStatements_ForeachLoop.csproj", "{B228C880-1CCF-4EB0-8A6C-FB8934E42805}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{48AF89DC-1C0B-40F8-888A-FC8716EF442F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48AF89DC-1C0B-40F8-888A-FC8716EF442F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48AF89DC-1C0B-40F8-888A-FC8716EF442F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B228C880-1CCF-4EB0-8A6C-FB8934E42805}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B228C880-1CCF-4EB0-8A6C-FB8934E42805}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B228C880-1CCF-4EB0-8A6C-FB8934E42805}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B228C880-1CCF-4EB0-8A6C-FB8934E42805}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
