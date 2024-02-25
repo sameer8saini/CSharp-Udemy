@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IterationStatements_ForLoop
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IterationStatements_ForeachLoop", "IterationStatements_ForeachLoop\IterationStatements_ForeachLoop.csproj", "{B228C880-1CCF-4EB0-8A6C-FB8934E42805}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "String Operations", "String Operations", "{9AA4908B-20E4-4C8C-ADB7-75091983A5E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Length", "Length\Length.csproj", "{1B829F3B-EC68-44A7-A28F-9E3FE85547C5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,9 +91,16 @@ Global
 		{B228C880-1CCF-4EB0-8A6C-FB8934E42805}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B228C880-1CCF-4EB0-8A6C-FB8934E42805}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B228C880-1CCF-4EB0-8A6C-FB8934E42805}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B829F3B-EC68-44A7-A28F-9E3FE85547C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B829F3B-EC68-44A7-A28F-9E3FE85547C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B829F3B-EC68-44A7-A28F-9E3FE85547C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B829F3B-EC68-44A7-A28F-9E3FE85547C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1B829F3B-EC68-44A7-A28F-9E3FE85547C5} = {9AA4908B-20E4-4C8C-ADB7-75091983A5E7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D4464C3F-CAB0-483A-9242-5477BF9E0BAF}
