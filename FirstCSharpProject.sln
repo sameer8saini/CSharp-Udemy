@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexOf", "IndexOf\IndexOf.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpperAndLowerCase", "UpperAndLowerCase\UpperAndLowerCase.csproj", "{3616615F-30D8-4354-B074-50B38F7A7B52}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Replace", "Replace\Replace.csproj", "{E3A8AA71-0FA5-40BE-9B12-CEB727D526EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -113,6 +115,10 @@ Global
 		{3616615F-30D8-4354-B074-50B38F7A7B52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3616615F-30D8-4354-B074-50B38F7A7B52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3616615F-30D8-4354-B074-50B38F7A7B52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3A8AA71-0FA5-40BE-9B12-CEB727D526EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3A8AA71-0FA5-40BE-9B12-CEB727D526EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3A8AA71-0FA5-40BE-9B12-CEB727D526EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3A8AA71-0FA5-40BE-9B12-CEB727D526EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -122,6 +128,7 @@ Global
 		{859B77F9-942C-4C3D-A9F7-8DB81C98CF0D} = {9AA4908B-20E4-4C8C-ADB7-75091983A5E7}
 		{0BDC0761-F1E4-4874-8A66-25614672365A} = {9AA4908B-20E4-4C8C-ADB7-75091983A5E7}
 		{3616615F-30D8-4354-B074-50B38F7A7B52} = {9AA4908B-20E4-4C8C-ADB7-75091983A5E7}
+		{E3A8AA71-0FA5-40BE-9B12-CEB727D526EE} = {9AA4908B-20E4-4C8C-ADB7-75091983A5E7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D4464C3F-CAB0-483A-9242-5477BF9E0BAF}
