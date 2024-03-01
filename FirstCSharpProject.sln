@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Split", "Split\Split.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trim", "Trim\Trim.csproj", "{2DA2544A-CA90-49C0-89FD-9321C8C1D0DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StartsWith_EndsWith_Contains", "StartsWith_EndsWith_Contains\StartsWith_EndsWith_Contains.csproj", "{6302F3BA-B107-4E75-863F-95900F704A88}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -131,6 +133,10 @@ Global
 		{2DA2544A-CA90-49C0-89FD-9321C8C1D0DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2DA2544A-CA90-49C0-89FD-9321C8C1D0DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2DA2544A-CA90-49C0-89FD-9321C8C1D0DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6302F3BA-B107-4E75-863F-95900F704A88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6302F3BA-B107-4E75-863F-95900F704A88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6302F3BA-B107-4E75-863F-95900F704A88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6302F3BA-B107-4E75-863F-95900F704A88}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -143,6 +149,7 @@ Global
 		{E3A8AA71-0FA5-40BE-9B12-CEB727D526EE} = {9AA4908B-20E4-4C8C-ADB7-75091983A5E7}
 		{792777EC-3700-470C-9091-D5BF7374ACFE} = {9AA4908B-20E4-4C8C-ADB7-75091983A5E7}
 		{2DA2544A-CA90-49C0-89FD-9321C8C1D0DE} = {9AA4908B-20E4-4C8C-ADB7-75091983A5E7}
+		{6302F3BA-B107-4E75-863F-95900F704A88} = {9AA4908B-20E4-4C8C-ADB7-75091983A5E7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D4464C3F-CAB0-483A-9242-5477BF9E0BAF}
