@@ -57,6 +57,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Value_Parameters", "Value_P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reference_Parameters", "Reference_Parameters\Reference_Parameters.csproj", "{7066E73A-8043-45BE-A94A-0D21EC858390}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Output_Parameters", "Output_Parameters\Output_Parameters.csproj", "{21CB2DA9-DBA3-4D2B-82E8-CBA7E6DB7B48}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -163,6 +165,10 @@ Global
 		{7066E73A-8043-45BE-A94A-0D21EC858390}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7066E73A-8043-45BE-A94A-0D21EC858390}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7066E73A-8043-45BE-A94A-0D21EC858390}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21CB2DA9-DBA3-4D2B-82E8-CBA7E6DB7B48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21CB2DA9-DBA3-4D2B-82E8-CBA7E6DB7B48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21CB2DA9-DBA3-4D2B-82E8-CBA7E6DB7B48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21CB2DA9-DBA3-4D2B-82E8-CBA7E6DB7B48}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -180,6 +186,7 @@ Global
 		{E05EC505-8F69-49A8-BFB1-F1B5478603E8} = {425EB673-EE13-4665-8C0B-DF85A42ABC86}
 		{47D53754-D1B7-48F7-9622-0097E7495B6A} = {425EB673-EE13-4665-8C0B-DF85A42ABC86}
 		{7066E73A-8043-45BE-A94A-0D21EC858390} = {425EB673-EE13-4665-8C0B-DF85A42ABC86}
+		{21CB2DA9-DBA3-4D2B-82E8-CBA7E6DB7B48} = {425EB673-EE13-4665-8C0B-DF85A42ABC86}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D4464C3F-CAB0-483A-9242-5477BF9E0BAF}
