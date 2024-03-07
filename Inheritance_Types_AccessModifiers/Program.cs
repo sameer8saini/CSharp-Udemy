@@ -42,7 +42,7 @@ public class Car : Vehicle
 
     public void RegisterCar()
     {
-        YearRegistered = 2019;
+        //YearRegistered = 2019;
     }
 
     public void Park()
