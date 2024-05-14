@@ -103,6 +103,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IterationStatements_Continu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IterationStatements_Challenge_MultiplicationTableGenerator", "IterationStatements_Challenge_NumgerGuesser\IterationStatements_Challenge_MultiplicationTableGenerator.csproj", "{FBE705FE-2A3E-429D-9C9E-D3E627ACAE53}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scope_Of_Variables", "Scope_Of_Variables\Scope_Of_Variables.csproj", "{71E1BBB9-46C3-4A7B-80F4-F03E61F2A3ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -285,6 +287,10 @@ Global
 		{FBE705FE-2A3E-429D-9C9E-D3E627ACAE53}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBE705FE-2A3E-429D-9C9E-D3E627ACAE53}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBE705FE-2A3E-429D-9C9E-D3E627ACAE53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71E1BBB9-46C3-4A7B-80F4-F03E61F2A3ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71E1BBB9-46C3-4A7B-80F4-F03E61F2A3ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71E1BBB9-46C3-4A7B-80F4-F03E61F2A3ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71E1BBB9-46C3-4A7B-80F4-F03E61F2A3ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -318,6 +324,7 @@ Global
 		{1A8DCD66-9EC6-4CD3-975F-3493C5E7BA70} = {7024A191-BE7D-43CA-AA36-5E015AB856E9}
 		{7F2C26A7-BD46-41B2-A48D-DA3AE165EA17} = {7024A191-BE7D-43CA-AA36-5E015AB856E9}
 		{EB9320FE-1406-40F9-85C0-A4D8BBF250F0} = {7024A191-BE7D-43CA-AA36-5E015AB856E9}
+		{71E1BBB9-46C3-4A7B-80F4-F03E61F2A3ED} = {425EB673-EE13-4665-8C0B-DF85A42ABC86}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D4464C3F-CAB0-483A-9242-5477BF9E0BAF}
